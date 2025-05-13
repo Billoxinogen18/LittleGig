@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860967913262",
+    "project_id": "littlegig-5535b",
+    "storage_bucket": "littlegig-5535b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860967913262:android:d4d75906d44cca6c245cbf",
+        "android_client_info": {
+          "package_name": "com.partympakache.littlegig.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcn5QZ5L9ja5eolPHPj0EjHlhnp2gF4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
